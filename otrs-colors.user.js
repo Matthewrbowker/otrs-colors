@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Restores the OTRS color scheme everyone knows and loves!
 // @author       Matthew Bowker
-// @match        https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom;TicketID=*
+// @match        https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom*
 // @grant        none
 // ==/UserScript==
 
